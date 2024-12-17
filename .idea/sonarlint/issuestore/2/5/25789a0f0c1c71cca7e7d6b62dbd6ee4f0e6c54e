@@ -1,0 +1,16 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ˆé»çşÿÿÿÿ8µ¦Ñ¢½2J$3afa10e4-fff1-4536-86d3-a3cd5dca89f4
+˜
+java:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ8©ÂÒ¢½2J$ca4ac78f-2605-46a7-94cc-6613b310cc13
+g
+java:S1659"Declare "y" on a separate line.(¡Ê²‘şÿÿÿÿ8Ú¦Ñ¢½2J$68073619-13fe-426d-97d4-b1e3b3936c4f
+’
+java:S6201"JReplace this instanceof check and cast with 'instanceof Posicion posicion'(¼åÚŸúÿÿÿÿ8«ÂÒ¢½2J$47dd0975-2715-4ad0-8593-410ac6a9681a
+’
+java:S6201"JReplace this instanceof check and cast with 'instanceof Posicion posicion'(¼åÚŸúÿÿÿÿ8«ÂÒ¢½2J$1cff57a5-2a21-44e5-98a5-79af0fac1a28
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—«óüÿÿÿÿ8­ÂÒ¢½2J$54e568f0-6dcb-4d9d-b0c7-dbd6144b659d
+•	java:S100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íª²şıÿÿÿÿ8®ÂÒ¢½2J$7a74f53b-1473-49e2-bee8-3ceb6954258b
+m	java:S106K"+Replace this use of System.out by a logger.(Š«™¾8é¦Ñ¢½2J$424ae38c-bbe4-42b1-8afe-2d857777e3aa
+l	java:S106L"+Replace this use of System.out by a logger.(ò¥8ê¦Ñ¢½2J$b4fe2021-b12c-4b57-80c6-77d0c8fb284c
+r	java:S106M"+Replace this use of System.out by a logger.(ñ¶ã¢ùÿÿÿÿ8ë¦Ñ¢½2J$51887357-08a7-47f0-a549-922d6230a2d8
+r	java:S106O"+Replace this use of System.out by a logger.(­ğàÃúÿÿÿÿ8Ş®Ô¢½2J$8d660932-3f9d-4962-8c9b-d584bfb46cc8
